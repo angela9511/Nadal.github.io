@@ -1,0 +1,92 @@
+body{
+    background-color:rgb(230, 255, 120);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.rem;
+    text-align: justify;
+}
+h1{
+    border-color: black;
+    border-style: dashed;
+    border-width: 20px;
+    font-family: monospace;
+    font-size: 300%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    margin-left: 20px;
+    clear:both right left;
+font-family:sans-serif
+
+
+
+}
+
+h2{
+    clear: both;
+    border-color:#C0C0C0;
+    border-style: double;
+    color:gold;
+    padding: 10;
+    font-size: 200%;
+    text-align: center;
+    text-transform: capitalize; 
+}
+pre{
+    clear: both;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 1150px;
+    margin-left: 20px;
+    white-space: pre-wrap;
+    overflow:hidden;
+}
+
+img.der {
+    border-width: 3px;
+    border-style:dotted;
+    float:right;
+    margin-top: 40px;
+    margin-left: 220px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+
+img.izq {
+    border-width: 2px;
+    border-style: groove;
+    border-color: bisque;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+img.centrado{
+margin-left: 500px;
+border-radius: 20px;
+border-style:ridge;
+border-color: aquamarine;
+}
+p.answer{
+font-weight: bolder;
+font-variant: small-caps;
+font-family: fantasy;
+font-style: oblique;
+font-size: 300%;
+}
+img.bottom{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-width: 2px;
+    border-style: double;
+
+}
+hr{
+    clear:both;
+    
+}
+
+
